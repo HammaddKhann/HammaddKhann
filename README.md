@@ -1,5 +1,5 @@
 ## INTRODUCTION 
--  :wave: ***HI, I am @HammaddKhann and is currently pursuing bachelor in computer sciences at Institute Of Business Administration, Karachi.*** 
+-  :wave: ***HI, I am @HammaddKhann*** and is currently pursuing bachelor in computer sciences at ***Institute Of Business Administration, Karachi.*** 
   
 
 ## HOBBIES 
